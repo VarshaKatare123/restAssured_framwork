@@ -1,0 +1,1 @@
+framework is a combination of keyword-driven and data-driven. Here, we take data from the excle file and validate the data by using testNG. We also create a report of our validated test case by using allure report. and github keeps all source code for a project and all APIs in one place so that users can use it according to their needs and testcase changes. 
